@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a04b52e-d6cb-4c03-b332-81c2bbf0e454" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="140" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Tower-Defense" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SC6rztufj6rmEIpcxDZIdKhYYf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="tower-defense" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phamvantrong_tranductoan\out\production\phamvantrong_tranductoan\META-INF" />
+      <recent name="D:\phamvantrong_tranductoan\Res\enemy" />
+      <recent name="E:\phamvantrong_tranductoan\src\Map" />
+      <recent name="E:\phamvantrong_tranductoan\src\Level" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" singleton="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GameStage.Frame" />
+      <module name="Tower-Defense" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GameStage.Screen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a04b52e-d6cb-4c03-b332-81c2bbf0e454" name="Default Changelist" comment="" />
+      <created>1571055432340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571055432340</updated>
+      <workItem from="1571055436434" duration="89000" />
+      <workItem from="1571055538059" duration="3189000" />
+      <workItem from="1571058779793" duration="277000" />
+      <workItem from="1571061258834" duration="1548000" />
+      <workItem from="1571063816672" duration="23000" />
+      <workItem from="1571302296896" duration="710000" />
+      <workItem from="1571452080353" duration="680000" />
+      <workItem from="1571731326948" duration="224000" />
+      <workItem from="1571732018463" duration="508000" />
+      <workItem from="1572613241681" duration="5743000" />
+      <workItem from="1572619017629" duration="2405000" />
+      <workItem from="1572680021142" duration="598000" />
+      <workItem from="1572828426015" duration="1658000" />
+      <workItem from="1572834864569" duration="7377000" />
+      <workItem from="1572853453985" duration="18567000" />
+      <workItem from="1572918979774" duration="20000" />
+      <workItem from="1572919019540" duration="879000" />
+      <workItem from="1572920742573" duration="13000" />
+      <workItem from="1572959624557" duration="3673000" />
+      <workItem from="1572965224363" duration="4318000" />
+      <workItem from="1573004683722" duration="762000" />
+      <workItem from="1573005518066" duration="241000" />
+      <workItem from="1573005906991" duration="744000" />
+      <workItem from="1573027926876" duration="8899000" />
+      <workItem from="1573036857382" duration="1469000" />
+      <workItem from="1573045199966" duration="6855000" />
+      <workItem from="1573125066465" duration="2106000" />
+      <workItem from="1573134368391" duration="742000" />
+      <workItem from="1573135174763" duration="6269000" />
+      <workItem from="1573195084319" duration="1960000" />
+      <workItem from="1573206647358" duration="7023000" />
+      <workItem from="1573217771386" duration="109000" />
+      <workItem from="1573217893513" duration="10598000" />
+      <workItem from="1573258266919" duration="10278000" />
+      <workItem from="1573277094066" duration="509000" />
+      <workItem from="1573286587802" duration="4898000" />
+      <workItem from="1573291883334" duration="89000" />
+      <workItem from="1573297742306" duration="2535000" />
+      <workItem from="1573649521144" duration="7560000" />
+      <workItem from="1573660567873" duration="1265000" />
+      <workItem from="1573700417626" duration="3002000" />
+      <workItem from="1573708993693" duration="233000" />
+      <workItem from="1574080970061" duration="3248000" />
+      <workItem from="1574127765737" duration="28000" />
+      <workItem from="1574128559439" duration="610000" />
+      <workItem from="1574150367547" duration="5597000" />
+      <workItem from="1574163507105" duration="855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/phamvantrong_tranductoan$main.ic" NAME="main Coverage Results" MODIFIED="1573658177630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>GameStage.Screen.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Tower_Defense$Frame.ic" NAME="Frame Coverage Results" MODIFIED="1572873269539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Screen.*</FILTER>
+    </SUITE>
+  </component>
+</project>
